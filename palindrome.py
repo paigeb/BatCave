@@ -1,4 +1,4 @@
-word_to_check = input("Please enter your favorite word > ")
+word_two_check = input("Please enter your favorite word > ")
 
 def is_palindrome(word):
     if word == word[::-1]:
